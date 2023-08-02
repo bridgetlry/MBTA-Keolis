@@ -7,3 +7,5 @@ The `pandas`, `numpy`, and `shutil` libraries may need to be installed on whiche
 The Data Analytics Team in the Procurement and Logistics Department at the MBTA can run this code each month to conveniently prepare and clean data to eventually use in the Tableau report. 
 
 This code is updated as of August 2nd, 2023 but is subject to becoming outdated if any future co-ops make modifications or develop additional features.
+
+*NOTE*: this can only be run on the MBTA server, as it references files on a Common Drive, hence the format of a Python notebook so the dataframe outputs can be seen after cells.
