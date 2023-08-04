@@ -1,6 +1,6 @@
 # MBTA-Keolis
 
-Created during my time as a Data Analytics Co-op in the Procurement and Logistics Department at the MBTA.
+--Created during my time as a Data Analytics Co-op in the Procurement and Logistics Department at the MBTA.--
 
 
 This script transforms the raw inventory monthly data received from Keolis Commuter Services into comprehensive files with information on transaction history and overall inventory on hand. This configuration was previously done manually using Microsoft Excel and Microsoft Access but now uses a more succinct Python notebook.
